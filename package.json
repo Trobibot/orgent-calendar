@@ -1,0 +1,13 @@
+{
+  "name": "orgent-calendar",
+  "version": "0.1.1",
+  "description": "This is modula to calculate Orgent's date from up comming book \"Le monde d'Orgent\"",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Trobibot",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Trobibot/orgent-calendar.git"
+  }
+}
